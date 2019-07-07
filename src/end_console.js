@@ -16,9 +16,9 @@ function handle_undefined(text){
 }
 
 /**
- * In case of input error.
- * @param text Output.
- * @returns {any} the output result.
+ * In case of expression error.
+ * @param text expression.
+ * @returns {any} the expression result.
  */
 function calculator(text){
     var output;
@@ -26,6 +26,7 @@ function calculator(text){
         // If the string represents an expression, eval() evaluates the expression.
         output = eval(text);
     } catch(e){
+        // Else, catch exception.
         output= "Error";
     }
     return output;
