@@ -37,11 +37,11 @@
 </head>
 <body>
 <table>
-    <!--show text-->
+    <!--展示表达式-->
     <tr>
         <td colspan="4"><input class="output_txt" type="text"  value="0" disabled></td>
     </tr>
-    <!--iOS layout-->
+    <!--iOS 布局->
     <tr>
         <td><input class="gray_btn" type="button" value="AC"></td>
         <td><input class="gray_btn" type="button" value="+/-"></td>
