@@ -17,7 +17,8 @@ Table of Contents
 
 English | [中文](README_CN.md)
 
-Last updated on `2019/07/08`<br>
+Last updated on `2019/07/08`
+
 This project aims to achieve the iOS calculator on the browser.<br>
 This project can be divided into 3 parts: `HTML`, `CSS` and `JavaScript`. I will introduce these three parts in detail as below.
 
