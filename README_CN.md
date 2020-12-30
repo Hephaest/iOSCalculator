@@ -12,7 +12,6 @@
 
 # iOS 计算器
 [![LICENSE](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Hephaest/Simple-Java-Caculator/blob/master/LICENSE)
-[![JQuery](https://img.shields.io/badge/JQuery-1.12.2-orange.svg)](https://github.com/Hephaest/iOSCalculator/blob/master/src/jquery-1.12.2.js)
 
 [English](README.md) | 中文
 
